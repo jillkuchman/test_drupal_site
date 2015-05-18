@@ -4,3 +4,6 @@
 [submodule "sites/all/modules/groceries"]
 	path = sites/all/modules/groceries
 	url = https://github.com/jillkuchman/groceries
+[submodule "sites/all/modules/cards"]
+	path = sites/all/modules/cards
+	url = https://github.com/jillkuchman/cards_module.git
