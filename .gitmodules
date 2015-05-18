@@ -1,0 +1,6 @@
+[submodule "sites/all/modules/favorites"]
+	path = sites/all/modules/favorites
+	url = https://github.com/ConorBaumgart/favorites_module.git
+[submodule "sites/all/modules/groceries"]
+	path = sites/all/modules/groceries
+	url = https://github.com/jillkuchman/groceries
