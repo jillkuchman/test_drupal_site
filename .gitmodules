@@ -7,3 +7,6 @@
 [submodule "sites/all/modules/cards"]
 	path = sites/all/modules/cards
 	url = https://github.com/jillkuchman/cards_module.git
+[submodule "cards_module"]
+	path = sites/all/modules/cards
+	url = https://github.com/jillkuchman/cards_module.git
